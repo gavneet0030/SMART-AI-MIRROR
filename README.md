@@ -1,4 +1,4 @@
-<h1 align="center">🪞 SMART AI MIRROR</h1>
+<h1 align="center">SMART AI MIRROR</h1>
 
 <h3 align="center">
 AI-Driven Intelligent Mirror with Voice Interaction
